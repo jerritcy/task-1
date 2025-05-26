@@ -1,19 +1,20 @@
-Task 1 – Local Network Port Scanning
+#Task 1 – Local Network Port Scanning
 
-Objective
+#Objective
 Use Nmap to scan local network and identify open ports.
 
-Tools
+#Tools
 - Nmap
 - (Optional) Wireshark
 
-Result 
+#Result 
 Saved as scan_result. (included in this repo).
+Wireshark analysis.(included in this repo).
 
- Observations
+#Observations
 Discovered active devices and open ports.
 
-Common services found include:
+#Common services found include:
 
 Port 80 (HTTP)
 Port 443 (HTTPS)
